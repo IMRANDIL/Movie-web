@@ -314,7 +314,7 @@ padding: 0 20px;
     }
 
     .featured-content{
-        height: 95vh;
+        
        overflow: hidden;
         
     }
@@ -329,10 +329,10 @@ padding: 0 20px;
 
 
 
-@media screen and (max-width: 1300px) and (min-width: 960px){
+/* @media screen and (max-width: 1300px) and (min-width: 960px){
     .featured-content{
         height: 82vh;
       
         
     }
-}
+} */
